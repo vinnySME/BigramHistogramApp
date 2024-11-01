@@ -1,0 +1,14 @@
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\bin\Debug\net8.0\BigramHistogramApp.exe
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\bin\Debug\net8.0\BigramHistogramApp.deps.json
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\bin\Debug\net8.0\BigramHistogramApp.runtimeconfig.json
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\bin\Debug\net8.0\BigramHistogramApp.dll
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\bin\Debug\net8.0\BigramHistogramApp.pdb
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\obj\Debug\net8.0\BigramHistogramApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\obj\Debug\net8.0\BigramHistogramApp.AssemblyInfoInputs.cache
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\obj\Debug\net8.0\BigramHistogramApp.AssemblyInfo.cs
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\obj\Debug\net8.0\BigramHistogramApp.csproj.CoreCompileInputs.cache
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\obj\Debug\net8.0\BigramHistogramApp.dll
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\obj\Debug\net8.0\refint\BigramHistogramApp.dll
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\obj\Debug\net8.0\BigramHistogramApp.pdb
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\obj\Debug\net8.0\BigramHistogramApp.genruntimeconfig.cache
+C:\Users\heliu\OneDrive\Desktop\Interview\VAE-12pm 10.29\BigramHistogramApp_01112024\BigramHistogramApp\obj\Debug\net8.0\ref\BigramHistogramApp.dll
