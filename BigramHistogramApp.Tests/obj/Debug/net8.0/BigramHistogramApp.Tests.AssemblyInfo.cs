@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BigramHistogramApp.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7e8dc941a7c3065f4ef2b54d60212b833c8c872")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ec2839ab395426cd5509fc390efe643a871ef0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BigramHistogramApp.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BigramHistogramApp.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
