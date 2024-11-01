@@ -18,7 +18,7 @@ Prerequisites
 Running the Application
 
 Clone the repository:
-git clone <repository-url>
+git clone https://github.com/vinnySME/BigramHistogramApp.git
 
 Navigate to the project directory
 
